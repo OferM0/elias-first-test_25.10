@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50vw;
+    margin-right: 50vw;
+    margin-top: 50vh;
+    margin-bottom: 50vh;
+}
+  
+body{
+    width: 100vw;
+}

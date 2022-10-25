@@ -1,0 +1,3 @@
+flex-direction allow the programmer to choose the direction of the items which are in the flex-displayed container.
+there are several direction options: row, column, column-reverse , row-reverse amd more.... the deafult is row.
+the main and axis second axises will be set by the flex direction.

@@ -1,0 +1,5 @@
+To create a flex container, we set the css display property to flex or inline-flex,
+the children items/elemnts of that container become flex items and they will behave in the following way of the container,
+based on his css properties like: flex-direction, justify-content, align-items...
+
+in my example the body is a flex container and the div elemnts in are flex items, they behave as setted in the container css property- column direction.
